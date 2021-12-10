@@ -9,6 +9,6 @@ echo "Enter number1"
 echo "Enter Number2"
 	read number2
 add=$((number1 + number2))
-echo Multiple is $add
+echo Addition is $add
 exit 0
 
