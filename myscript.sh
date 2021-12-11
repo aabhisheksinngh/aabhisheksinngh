@@ -10,5 +10,5 @@ echo "Enter Number2"
 	read number2
 add=$((number1 + number2))
 echo Addition is $add
-exit 1
+exit 0
 
