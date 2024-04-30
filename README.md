@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @aabhisheksinngh
 - 👀 I’m interested in Cloud and DevOps
-- 🌱 I’m currently learning DevOps tools and scritpting
-- 💞️ I’m looking to collaborate on basic repositories
+
 - 📫 How to reach me ... aabhisheksinngh@gmail.com
 
 <!---
